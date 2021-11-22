@@ -1,2 +1,0 @@
-(this.webpackJsonp24mart=this.webpackJsonp24mart||[]).push([[0],{9:function(t,e,n){"use strict";n.r(e);var r=n(1),c=n.n(r),o=n(3),s=n.n(o),i=n(0),d=function(){return Object(i.jsx)("div",{children:" Hello World! "})};s.a.render(Object(i.jsx)(c.a.StrictMode,{children:Object(i.jsx)(d,{})}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.fc9f253c.chunk.js.map
