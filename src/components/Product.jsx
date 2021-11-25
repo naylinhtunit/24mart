@@ -24,17 +24,18 @@ const Container = styled.div`
     align-items: center;
     justify-content: center;
     position: relative;
+    background-color: #fcf5f5;
     
     &:hover ${Info} {
         opacity: 1;
     }
 `;
 const Circle = styled.div`
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    background-color: white;
-    position: absolute;
+    /* width: 200px; */
+    /* height: 200px; */
+    /* border-radius: 50%; */
+    /* background-color: white; */
+    /* position: absolute; */
 `;
 const Image = styled.img`
     height: 75%;
